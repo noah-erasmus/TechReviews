@@ -1,0 +1,35 @@
+.login-container{
+    margin-top: 200px;
+    width: 100%;
+}
+
+.register-container{
+    width: 25%;
+}
+
+.feed-container{
+    margin-top: 50px;
+    width: 100%;
+}
+
+.feed-container h1{
+    margin-bottom: 50px;
+}
+
+.feed-header{
+    height: 50px;
+    width: 100%;
+    margin-top: 50px;
+}
+
+.post{
+    height: 500px;
+    width: 300px;
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.navbar-nav{
+    margin-right: 80px;
+}
